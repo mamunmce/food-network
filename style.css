@@ -35,6 +35,22 @@ a{
     
 }
 
+.hadder-img{
+    width:50%
+}
+
 .hadder-img img{
     width:100%;
+}
+
+.about-img img{
+    width:50%;
+    margin-left: 150px;
+    margin-top:50px;
+}
+
+.about-section{
+    background-image: url(images/about-frem.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
