@@ -1,0 +1,40 @@
+.top-section{
+    display: flex;
+}
+
+.top-hadder-div{
+    width: 50%;
+    padding-left: 100px;
+    margin-top: 100px;
+}
+
+.top-hadder-div h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 70px;
+    color: dimgrey;
+}
+
+.top-hadder-div h1 span{
+    color: brown;
+}
+
+.top-hadder-div p{
+    font-size: 20px;
+    font-weight: bold;
+    color: #463f3f;
+    margin-bottom: 60px;
+}
+
+a{
+    text-decoration: none;
+    background:linear-gradient(#ffaa64, #ff2a05);
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: white;
+    font-size: 25px;
+    
+}
+
+.hadder-img img{
+    width:100%;
+}
